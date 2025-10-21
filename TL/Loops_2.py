@@ -6,4 +6,3 @@ for i in range(1,11):
 t = list(range(0,10))
 
 print(t)
-
